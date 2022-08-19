@@ -4,12 +4,12 @@
     <p></p>
     <p></p>
     <p></p>
-    <p>In the endless darkness, [\s]the dead Celestial's consciousness awakened.</p>
+    <p>Within the boundless darkness, a consciousness awoke within the dead Celestial. </p>
   </mono>
   <se id="01-01白光转场"></se>
   <delay t="0.15"></delay>
   <transition in="1" stop="0.5" out="1.5" color="#ffffff" mode="fade"></transition>
-  <mono>In the beginning, the new consciousness was like the birth of the world: just a spot of light in the universe.</mono>
+  <mono>In the beginning, the new consciousness was like the birth of the world: just a speck of light in the universe.</mono>
   <se id="01-01恢复意识" looptimes="-1"></se>
   <bg img="BGIntel1" duration="3"></bg>
   <mono>
@@ -122,7 +122,7 @@
   </mono>
   <event action="show_ui"></event>
   <delay t="7"></delay>
-  <mono pageend="true">Drawing on every breath from her surroundings,</mono>
+  <mono pageend="true">Drawing on all Ki from her surroundings,</mono>
   <event action="hide_ui" duration="2"></event>
   <cg img="CG_第一折_赤鸢沉睡2" duration="2"></cg>
   <delay t="2"></delay>
@@ -155,7 +155,7 @@
   <se id="01-05痊愈"></se>
   <mono pageend="true">
     <p></p>
-    <p>repairing the damaged organs...</p>
+    <p>repairing damaged organs...</p>
   </mono>
   <delay t="2"></delay>
   <transition in="3" stop="0.5" out="0" color="#ffffff" mode="halo"></transition>
@@ -254,14 +254,14 @@
   <event action="show_ui"></event>
   <mono>
     <p></p>
-    <p>The Seven people closest to her.</p>
+    <p>The seven people closest to her.</p>
   </mono>
   <mono>The Seven Swords that stayed by her side for the longest time.</mono>
   <motion chara="-4" action="shake" duration="0.1" range="30" direction="default" looptimes="1"></motion>
   <mono pageend="true" inline="true">
     <p></p>
     <p>Seven people that conspired, lured her to doom.[\s]</p>
-    <p>Seven Swords that trapped her and killed her.</p>
+    <p>The Seven Swords that trapped her and killed her.</p>
   </mono>
   <se id="01-09心跳loop" looptimes="0"></se>
   <transition mode="dissolve" in="1" stop="0.5" out="1" color="#000000"></transition>
@@ -331,7 +331,7 @@
     <p>pushing her,</p>
     <p>changing her.</p>
     <p></p>
-    <p>The wait becomes a habit and the pain becomes natural.</p>
+    <p>Waiting becomes a habit and pain becomes natural.</p>
   </mono>
   <mono pageend="true">
     <p></p>
