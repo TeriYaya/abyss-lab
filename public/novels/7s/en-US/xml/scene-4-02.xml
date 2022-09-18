@@ -62,7 +62,7 @@
   <dialog chara="009">「In my opinion, the problem is your Li family’s martial arts.」</dialog>
   <text>Her mother spoke coldly.</text>
   <dialog chara="009">
-    <p>「Fleeting Swallow and 13 Stances of the Diving Swift are amazing skills in the middle of Sichuan, but how about Master’s “Edge of Taixuan”?</p>
+    <p>「Fleeting Swallow and the 13 Stances of the Diving Swift are amazing skills in the middle of Sichuan, but how about Master’s “Edge of Taixuan”?</p>
     <p>I shouldn’t have listened to your nonsense and changed Issin Mnemonics.」</p>
   </dialog>
   <dialog chara="010">「…………」</dialog>
@@ -74,10 +74,10 @@
     <p>「My Blade Mantra has been damaged, yours can’t be cultivated, what can I say?[\s]</p>
     <p>Tomorrow, I will head to the Northern Desert and ask the Fifth Senior Sister to take Sushang as her disciple.」</p>
   </dialog>
-  <dialog chara="009">「Fifth Senior Sister owes me a personal favor. My face is low, but as long as I speak, she won’t refuse.」</dialog>
+  <dialog chara="009">「Fifth Senior Sister owes me a personal favor. My dignity is low, but as long as I speak, she won’t refuse.」</dialog>
   <text>Her father was taken aback, then he sternly objected. Sushang was inexplicably terrified when she heard it. She wanted to agree with her father, but she was also curious about what her mother said about 「Northern Desert」 and 「Fifth Sister」.</text>
   <dialog chara="009">「——Edge of Taixuan.」</dialog>
-  <text>The short three characters seemed to have magical powers, and all the noise was eliminated as soon as they were spoken, and the room was suddenly silent.</text>
+  <text>The short three words seemed to have magical powers, and all the noise was eliminated as soon as they were spoken, and the room was suddenly silent.</text>
   <dialog chara="009">「Ever since Master passed away, Lingshuang alone has mastered the Essence of Eminence in this world.」</dialog>
   <dialog chara="009">「Since Sushang wants to learn swordsmanship, why not learn the best swordsmanship?」</dialog>
   <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"></transition>
@@ -112,7 +112,7 @@
   <motion chara="002" action="img_trans" img="素裳-浅笑-持剑-远景" duration="1"></motion>
   <delay t="1"></delay>
   <event action="show_ui"></event>
-  <text inline="true">Therefore, when seeing sword holding enemies approaching her in an encirclement,</text>
+  <text inline="true">Therefore, when seeing sword wielding enemies approaching her in an encirclement,</text>
   <text>
     <p></p>
     <p>Li Sushang’s mouth curled up into a meaningful arc.</p>
